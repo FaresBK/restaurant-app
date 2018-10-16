@@ -1,0 +1,10 @@
+nom des binomes
+1-Belkacem kahouli fares
+2-Bouhidel Selsabil Ines 
+etape 1
+instalation Git Bash avec la creation des comptes
+creation de repertoire TP01
+creation de projet Restaurant_App
+Ajouter le Binome et votre compte
+etape 2
+Le telechargement de projet
